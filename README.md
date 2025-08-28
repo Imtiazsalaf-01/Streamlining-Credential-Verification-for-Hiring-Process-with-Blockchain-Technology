@@ -1,5 +1,9 @@
 # STREAMLINING CREDENTIAL VERIFICATION FOR HIRING PROCESSES WITH BLOCKCHAIN TECHNOLOGY
 
+# @ MANAC INFOTECH PVT LTD  --3 MONTHS INTERNSHIP --
+
+# MAJOR PROJECT
+
 **ABSTRACT** 
 	
 In the current landscape, both companies and educational institutions rely heavily on manual processes to validate student academic credentials, which can be susceptible to fraudulent verification through bribery or manipulation by employees. Some universities have attempted to address this issue by maintaining student credentials in centralized servers. However, these centralized systems are not foolproof, as internal database administrators can manipulate data, leading to potential security breaches and service disruptions.
